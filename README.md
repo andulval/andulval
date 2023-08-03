@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
-
+### My name is Michał Żądło<br>
 Junior Web Developer with Master of Science in Automation and Robotics.<br>
 More than 4 years of experience as a member of multinational teams.<br> 
 Responsible for project execution and team management for global clients.<br> 
