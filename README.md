@@ -10,7 +10,7 @@ Constantly looking for new development opportunities.<br>
 *   ✉️  You can contact me at [michzadlo@gmail.com](mailto:michzadlo@gmail.com)
 *   🚀  I'm currently working on [Crwn-Clothing](http://master--chipper-cassata-41e430.netlify.app/)
 *   🧠  I'm learning React and Typescript
-*   🤝  I'm open to collaborating on interesting projects### Skills
+*   🤝  I'm open to collaborating on interesting projects Skills
 *   🌍  I'm based in Kraków
 
 ### Skills
