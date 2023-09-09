@@ -11,7 +11,7 @@ Constantly looking for new development opportunities.<br>
 *   🚀  I'm currently working on [Crwn-Clothing](http://master--chipper-cassata-41e430.netlify.app/)
 *   🧠  I'm learning React and Typescript
 *   🤝  I'm open to collaborating on interesting projects
-*   🌍  I'm based in Kraków
+*   🌍  I'm based in Kraków, Poland
 
 ### Skills
 
