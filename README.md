@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 ### My name is Michał Żądło<br>
-Junior Web Developer with Master of Science in Automation and Robotics.<br>
-More than 4 years of experience as a member of multinational teams.<br> 
-Responsible for project execution and team management for global clients.<br> 
+Over 8 months of professional programming experience in e-commerce and 4 years of experience as a member of multinational teams.<br>
+Responsible for project execution and team management for global clients.<br>
+Master of Science in Automation and Robotics conferred.<br>
 Constantly looking for new development opportunities.<br>
 
 *   🖥️  See my portfolio at [Michal Zadlo](http://helpful-cassata-6c070a.netlify.app/)
