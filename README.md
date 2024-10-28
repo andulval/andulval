@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 ### My name is Michał Żądło<br>
-Over 8 months of professional programming experience in e-commerce and 4 years of experience as a member of multinational teams.<br>
+Almost one year of professional programming experience in e-commerce Web development and 4 years of experience as a member of multinational teams.<br>
 Responsible for project execution and team management for global clients.<br>
 Master of Science in Automation and Robotics conferred.<br>
-Constantly looking for new development opportunities.<br>
+Eager to embrace new development opportunities.<br>
 
 *   🖥️  See my portfolio at [Michal Zadlo](http://helpful-cassata-6c070a.netlify.app/)
 *   ✉️  You can contact me at [michzadlo@gmail.com](mailto:michzadlo@gmail.com)
