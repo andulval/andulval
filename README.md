@@ -41,7 +41,6 @@ Eager to embrace new development opportunities.<br>
 
 <b>Top Repositories</b>
 <div width="100%" align="center">
-    <a href="https://github.com/andulval/MobileAppMovieSearch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andulval&repo=nautorus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-  <div width="100%" align="center"><a href="https://github.com/andulval/crwn-clothing-v2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andulval&repo=crwn-clothing-v2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-   <div width="100%" align="center"><a href="https://github.com/andulval/MobileAppMovieSearch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andulval&repo=MobileAppMovieSearch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-     <div width="100%" align="center"><a href="https://github.com/andulval/Yelpcamp2022_v0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andulval&repo=Yelpcamp2022_v0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/andulval/MobileAppMovieSearch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andulval&repo=nautorus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br /><br />
