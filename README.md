@@ -39,7 +39,8 @@ Eager to embrace new development opportunities.<br>
 ### Badges
 <a href="https://github.com/andulval" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andulval&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <div width="100%" align="center">
-<b>Top Repositories</b>
+  
+### Top Repositories
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
