@@ -8,7 +8,7 @@ Eager to embrace new development opportunities.<br>
 
 *   🖥️  See my portfolio at [Michal Zadlo](http://helpful-cassata-6c070a.netlify.app/)
 *   ✉️  You can contact me at [michzadlo@gmail.com](mailto:michzadlo@gmail.com)
-*   🚀  I'm currently working on [Crwn-Clothing](http://master--chipper-cassata-41e430.netlify.app/)
+*   🚀  I'm currently working on [Crwn-Clothing](http://master--chipper-cassata-41e430.netlify.app/) & [Nautors API](https://github.com/andulval/nautorus)
 *   🧠  I'm learning React and Typescript
 *   🤝  I'm open to collaborating on interesting projects
 *   🌍  I'm based in Kraków, Poland
@@ -44,7 +44,7 @@ Eager to embrace new development opportunities.<br>
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/andulval/MobileAppMovieSearch">
+      <a href="https://github.com/andulval/nautorus">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=andulval&repo=nautorus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
       </a>
     </td>
